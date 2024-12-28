@@ -6,7 +6,17 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bheemeshgundikeri" alt="bheemeshgundikeri" /></a> </p>
 
 - 🌱 I’m currently learning **SpringBoot, Hibernate**
-
+  
+- 🛠️ Working on my React.js project!
+  
+- 📚 Learning Advanced SQL queries.
+  
+- 🐍 Debugging Python scripts for ADAS.
+  
+- 🌱 Exploring front-end development trends.
+  
+- 💻 Preparing for RRB ALP Exam.
+  
 - 👨‍💻 All of my projects are available at [https://bheemesh-gundikeri24.netlify.app/](https://bheemesh-gundikeri24.netlify.app/)
 
 - 📫 How to reach me **bheemesh.gundikeri24@gmail.com**
