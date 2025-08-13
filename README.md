@@ -7,8 +7,9 @@
 <h3 align="center">A passionate Software Developer</h3>
 
 <!-- Snake Animation -->
-![GitHub Snake Light](dist/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](dist/snake.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake-dark.svg#gh-dark-mode-only)
+
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=bheemeshgundikeri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
