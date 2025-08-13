@@ -1,6 +1,6 @@
 <!-- Profile Banner -->
 <p align="center">
-  <img src="./banner.png" alt="Bheemesh Gundikeri Banner" width="100%" />
+  <video src="./banner.mp4" alt="Bheemesh Gundikeri Banner" width="100%" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
