@@ -3,7 +3,7 @@
   <video src="./banner.mp4" alt="Bheemesh Gundikeri Banner" width="100%" />
 </p> -->
 
-![Bheemesh Gundikeri Banner](./banner.mp4)
+![Bheemesh Gundikeri Banner](./banner.gif)
 
 <h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
 <h3 align="center">A passionate Software Developer</h3>
