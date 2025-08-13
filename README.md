@@ -5,17 +5,8 @@
 
 ![Bheemesh Gundikeri Banner](./banner.gif)
 
-<h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
-<h3 align="center">A passionate Software Developer</h3>
-
-<!-- Snake Animation -->
-![GitHub Snake Light](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake-dark.svg#gh-dark-mode-only)
-
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=bheemeshgundikeri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
+<!-- <h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
+<h3 align="center">A passionate Software Developer</h3> -->
 
 ---
 
@@ -33,6 +24,16 @@
 - 💻 Preparing for RRB ALP Exam.  
 - 👨‍💻 All of my projects are available at [My Portfolio](https://bheemesh-gundikeri24.netlify.app/)  
 - 📫 How to reach me: **bheemesh.gundikeri24@gmail.com**  
+
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=bheemeshgundikeri&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
+---
+
+<!-- Snake Animation -->
+![GitHub Snake Light](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake-dark.svg#gh-dark-mode-only)
 
 ---
 
