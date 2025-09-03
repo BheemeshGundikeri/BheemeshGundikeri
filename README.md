@@ -1,9 +1,13 @@
 <!-- Profile Banner -->
 
 <p align="center">
-  Hey Dev!👋&nbsp;
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+Developer;React+Developer;PHP+%26+Node.js+Developer" alt="Typing SVG" />
+  <strong>Hey Dev! 👋</strong>&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&vCenter=true&width=420&lines=PHP+Developer;Angular+Developer;React+Developer;Node.js+Developer"
+       alt="Typing SVG"
+       height="26"
+       style="vertical-align:middle;" />
 </p>
+
 
 <p align="center">
   <a href="mailto:bheemesh.gundikeri24@gmail.com">
