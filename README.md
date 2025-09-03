@@ -1,9 +1,12 @@
 <!-- Profile Banner -->
-<!-- <p align="center">
-  <video src="./banner.mp4" alt="Bheemesh Gundikeri Banner" width="100%" />
-</p> -->
 
-![Bheemesh Gundikeri Banner](./Untitled-1.html)
+
+<p align="center">
+  <a href="https://bheemeshgundikeri.github.io/banner/" target="_blank">
+    <img src="https://img.shields.io/badge/Click%20to%20View%20Dynamic%20Banner-17C9FF?style=for-the-badge" />
+  </a>
+</p>
+
 
 <!-- <h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
 <h3 align="center">A passionate Software Developer</h3> -->
