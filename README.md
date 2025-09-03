@@ -96,7 +96,12 @@
 
 ### 🌐 Connect with me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheemesh%20Gundikeri-blue?logo=linkedin&style=flat)](https://in.linkedin.com/in/bheemesh-g)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?&logo=instagram&logoColor=white)](https://www.instagram.com/yourusername)
+[![HackerRank](https://img.shields.io/badge/HackerRank-%231BA94C.svg?&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/yourusername)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yourusername)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
 
+<!-- 
 <p align="left">
 <a href="https://www.linkedin.com/in/bheemesh-g" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -104,7 +109,7 @@
 <a href="https://www.hackerrank.com/bheemesh_gundik1" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
 </a>
-</p>
+</p> -->
 
 ---
 
