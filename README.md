@@ -1,32 +1,29 @@
 <!-- Profile Banner -->
 
-
+<p align="center">Hey Dev!👋,
+  <h5>Bheemesh Gundikeri</h5>
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+Developer;React+Developer;PHP+%26+Node.js+Developer" alt="Typing SVG" />
+</p>
 <p align="center">
-  <a href="https://bheemeshgundikeri.github.io/banner/" target="_blank">
-    <img src="https://img.shields.io/badge/Click%20to%20View%20Dynamic%20Banner-17C9FF?style=for-the-badge" />
-  </a>
+  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheemesh.gundikeri24@gmail.com)
+  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheemesh-g)
+  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+
 </p>
 
+---
 
-<!-- <h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
-<h3 align="center">A passionate Software Developer</h3> -->
+## 🌟 About Me  
+- 👨‍💻 Currently working as a **Software Developer (PHP + Angular)** at **IT Wine Technology**.  
+- 🛠️ Hands-on experience in **SQL, Core Java, Python, and Full-Stack Development**.  
+- 🎯 Strong in **problem-solving, debugging, and building scalable applications**.  
+- 📚 Preparing for **RRB ALP & KAS exams** alongside development journey.  
+- 🚀 Passionate about **learning new technologies** and contributing to impactful projects.  
 
 ---
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BheemeshGundikeri&theme=algolia&no-frame=false&no-bg=false&margin-w=4)
-
----
-
-### 🌱 Currently Learning & Working On
-- 🌱 I’m currently learning **SpringBoot, Hibernate**  
-- 🛠️ Working on my React.js project!  
-- 📚 Learning Advanced SQL queries.  
-- 🐍 Debugging Python scripts for ADAS.  
-- 🌱 Exploring front-end development trends.  
-- 💻 Preparing for RRB ALP Exam.  
-- 👨‍💻 All of my projects are available at [My Portfolio](https://bheemesh-gundikeri24.netlify.app/)  
-- 📫 How to reach me: **bheemesh.gundikeri24@gmail.com**  
 
 ---
 <p align="left">
@@ -78,10 +75,11 @@
 
 ---
 
-### 📚 Useful Resources
-- [PHP Documentation](https://www.php.net/docs.php)  
-- [jQuery Documentation](https://api.jquery.com/)  
-- [TypeScript Documentation](https://www.typescriptlang.org/docs/)
+## 🚀 Current Focus  
+- 🔥 Building **Namma Raita (Agri Selling App)** – Angular + PHP + MySQL.  
+- 🌱 Learning **SpringBoot & Hibernate** for backend.  
+- 📊 Exploring **Power BI** for analytics.  
+- 💡 Enhancing problem-solving with **LeetCode & HackerRank**.  
 
 ---
 
