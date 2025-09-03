@@ -1,14 +1,18 @@
 <!-- Profile Banner -->
 
 <p align="center">Hey Dev!👋,
-  <h5>Bheemesh Gundikeri</h5>
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+Developer;React+Developer;PHP+%26+Node.js+Developer" alt="Typing SVG" />
 </p>
 <p align="center">
-  [![Gmail Badge](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bheemesh.gundikeri24@gmail.com)
-  [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bheemesh-g)
-  ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
-
+  <a href="mailto:bheemesh.gundikeri24@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/bheemesh-g">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://bheemesh-portfolio-netifly.app">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" />
+  </a>
 </p>
 
 ---
