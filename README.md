@@ -1,8 +1,10 @@
 <!-- Profile Banner -->
 
-<p align="center"><h3 align="center">Hey Dev!👋,</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+Developer;React+Developer;PHP+%26+Node.js+Developer" alt="Typing SVG" />
+<p align="center">
+  Hey Dev!👋&nbsp;
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&vCenter=true&width=500&lines=Full+Stack+Developer;Angular+Developer;React+Developer;PHP+%26+Node.js+Developer" alt="Typing SVG" />
 </p>
+
 <p align="center">
   <a href="mailto:bheemesh.gundikeri24@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
