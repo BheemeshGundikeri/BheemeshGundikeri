@@ -1,11 +1,11 @@
 <!-- Profile Banner -->
 
-<table align="center"><tr>
+<table align="center" border="0"><tr>
 <td><strong>Hey Dev! 👋</strong></td>
 <td width="8"></td>
-<td>
+<td><p>
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=17C9FF&vCenter=true&width=420&lines=PHP+Developer;Angular+Developer;React+Developer;Node.js+Developer"
-       alt="Typing SVG" height="26" />
+       alt="Typing SVG" height="26" /></p>
 </td>
 </tr></table>
 
