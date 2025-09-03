@@ -3,7 +3,7 @@
   <video src="./banner.mp4" alt="Bheemesh Gundikeri Banner" width="100%" />
 </p> -->
 
-![Bheemesh Gundikeri Banner](./banner.gif)
+![Bheemesh Gundikeri Banner](./Untitled-1.html)
 
 <!-- <h1 align="center">Hi 👋, I'm Bheemesh Gundikeri</h1>
 <h3 align="center">A passionate Software Developer</h3> -->
@@ -101,15 +101,6 @@
 [![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/yourusername)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=leetcode&logoColor=white)](https://leetcode.com/yourusername)
 
-<!-- 
-<p align="left">
-<a href="https://www.linkedin.com/in/bheemesh-g" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/bheemesh_gundik1" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-</p> -->
 
 ---
 
