@@ -34,42 +34,39 @@
 ---
 
 ## 💻 Tech Stack
-<style>
-  #skills-sphere {
-      height: 100vh;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-    }
-    /* Tooltip near sphere */
-    #tooltip {
-      position: absolute;
-      background: rgba(0, 0, 0, 0.8);
-      color: #0ef;
-      padding: 8px 12px;
-      border-radius: 8px;
-      pointer-events: none;
-      white-space: nowrap;
-      font-size: 14px;
-      display: none;
-    }
-    .progress-bar {
-      background: #333;
-      border-radius: 8px;
-      height: 10px;
-      margin-top: 6px;
-      overflow: hidden;
-    }
-    .progress-fill {
-      background: #0ef;
-      height: 100%;
-      width: 0%;
-    }
-  </style>
- <section id="skills-sphere">
-    <script src="https://cdn.jsdelivr.net/npm/three@0.152.2/build/three.min.js"></script>
-    <div id="tooltip"></div>
-</section>
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) 
+![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
+![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
+![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
+![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) 
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
 ---
 
@@ -106,115 +103,3 @@
 
 ### ✍️ Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-
-
-<script>
-  const scene = new THREE.Scene();
-    const camera = new THREE.PerspectiveCamera(75, window.innerWidth/window.innerHeight, 0.1, 1000);
-    const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
-    renderer.setSize(window.innerWidth, window.innerHeight);
-    document.getElementById("skills-sphere").prepend(renderer.domElement);
-
-    const sphereGroup = new THREE.Group();
-    scene.add(sphereGroup);
-
-    const skills = [
-      { name: "HTML", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", history: "Portfolio, Library, Namma Raita", percent: 90 },
-      { name: "CSS", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", history: "Animations, Responsive UI", percent: 85 },
-      { name: "JavaScript", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", history: "Dynamic UI, Calculator", percent: 80 },
-      { name: "React", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg", history: "Library Management System", percent: 70 },
-      { name: "Java", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", history: "Hospital Management System", percent: 75 },
-      { name: "MySQL", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg", history: "Library DB, Hospital DB", percent: 88 },
-      { name: "PHP", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg", history: "Personal projects", percent: 65 },
-      { name: "Angular", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg", history: "Web applications", percent: 60 },
-      { name: "jQuery", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg", history: "Dynamic UI, API calls", percent: 70 },
-      { name: "Bootstrap", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg", history: "Responsive design", percent: 85 },
-      { name: "MongoDB", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg", history: "Database management", percent: 55 },
-      { name: "Node.js", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg", history: "Backend development", percent: 70 },
-      { name: "Hibernate", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/hibernate/hibernate-original.svg", history: "Java ORM", percent: 60 },
-      { name: "Oracle SQL", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg", history: "Database queries", percent: 75 },
-      { name: "Express.js", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg", history: "Node.js framework", percent: 68 },
-      { name: "Spring Boot", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/springboot/springboot-original.svg", history: "Java microservices", percent: 65 },
-      { name: "Python", logo: "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", history: "Scripting, Automation", percent: 80 }
-    ];
-    
-    const radius = 5, logoSize = 1.3;
-    const loader = new THREE.TextureLoader();
-    const sprites = [];
-
-    skills.forEach((skill, i) => {
-      loader.load(skill.logo, (texture) => {
-        const material = new THREE.SpriteMaterial({ map: texture });
-        const sprite = new THREE.Sprite(material);
-        sprite.scale.set(logoSize, logoSize, 1);
-        sprite.userData = skill;
-
-        const phi = Math.acos(-1 + (2 * i) / skills.length);
-        const theta = Math.sqrt(skills.length * Math.PI) * phi;
-        sprite.position.setFromSphericalCoords(radius, phi, theta);
-
-        sphereGroup.add(sprite);
-        sprites.push(sprite);
-      });
-    });
-
-    camera.position.z = 12;
-
-    // Hover interaction
-    const raycaster = new THREE.Raycaster();
-    const mouse = new THREE.Vector2();
-    const tooltip = document.getElementById("tooltip");
-    let rotating = true;
-
-    function onMouseMove(event) {
-      mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-      mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
-      raycaster.setFromCamera(mouse, camera);
-      const intersects = raycaster.intersectObjects(sprites);
-
-      if (intersects.length > 0) {
-        const skill = intersects[0].object.userData;
-        showTooltip(skill, event.clientX, event.clientY);
-        rotating = false;
-      } else {
-        hideTooltip();
-        rotating = true;
-      }
-    }
-
-    function showTooltip(skill, x, y) {
-      tooltip.style.left = x + 15 + "px";
-      tooltip.style.top = y + 15 + "px";
-      tooltip.innerHTML = `
-        <strong>${skill.name}</strong><br>
-        ${skill.history}<br>
-        <div class="progress-bar"><div class="progress-fill" style="width:${skill.percent}%"></div></div>
-      `;
-      tooltip.style.display = "block";
-    }
-
-    function hideTooltip() {
-      tooltip.style.display = "none";
-    }
-
-    window.addEventListener("mousemove", onMouseMove);
-
-    // Animation
-   function animate() {
-        requestAnimationFrame(animate);
-        if (rotating) {
-            sphereGroup.rotation.y += 0.0025; // Horizontal rotation
-            sphereGroup.rotation.x += 0.0015; // Vertical rotation (slower for a more stable look)
-        }
-        renderer.render(scene, camera);
-    }
-    animate();
-
-    window.addEventListener("resize", () => {
-      camera.aspect = window.innerWidth / window.innerHeight;
-      camera.updateProjectionMatrix();
-      renderer.setSize(window.innerWidth, window.innerHeight);
-    });
-
-</script>
