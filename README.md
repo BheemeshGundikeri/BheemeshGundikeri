@@ -30,7 +30,6 @@
 - 👨‍💻 Currently working as a **Software Developer (PHP + Angular)** at **IT Wine Technology**.  
 - 🛠️ Hands-on experience in **SQL, Core Java, Python, and Full-Stack Development**.  
 - 🎯 Strong in **problem-solving, debugging, and building scalable applications**.  
-- 📚 Preparing for **RRB ALP & KAS exams** alongside development journey.  
 - 🚀 Passionate about **learning new technologies** and contributing to impactful projects.  
 
 ---
@@ -69,7 +68,6 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
-![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) 
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
 ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) 
 ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) 
