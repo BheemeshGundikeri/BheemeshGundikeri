@@ -95,6 +95,8 @@
 ---
 
 ### 🌐 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Bheemesh%20Gundikeri-blue?logo=linkedin&style=flat)](https://in.linkedin.com/in/bheemesh-g)
+
 <p align="left">
 <a href="https://www.linkedin.com/in/bheemesh-g" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
