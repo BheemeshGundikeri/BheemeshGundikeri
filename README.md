@@ -51,14 +51,9 @@
 ---
 
 ## 🎨 My Skills Sphere  
-[![Skills Sphere](https://img.shields.io/badge/Demo-Click%20Here-blue?style=for-the-badge)](https://bheemeshgundikeri.github.io/skills-sphere/)
 
-<details>
-<summary>🔵 Live Preview (expand)</summary>
-  
-<iframe src="https://bheemeshgundikeri.github.io/skills-sphere/" width="100%" height="500px"></iframe>
+[![View Live Demo](https://img.shields.io/badge/View_Skills_Sphere-Click_Here-17C9FF?style=for-the-badge)](https://bheemeshgundikeri.github.io/skills-sphere/)
 
-</details>
 
 ---
 ## 🚀 Current Focus  
