@@ -49,34 +49,16 @@
 ![GitHub Snake Dark](https://raw.githubusercontent.com/BheemeshGundikeri/BheemeshGundikeri/main/dist/snake-dark.svg#gh-dark-mode-only)
 
 ---
-## 💻 Tech Skills
 
-<p align="center">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="Used in Library Project (90%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="Used in Portfolio & Blogger (80%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="Used in Calculator & Library (75%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://angular.io/" title="Used in Namma Raita App (80%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://react.dev/" title="Used in Library Management System (70%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.php.net/" title="Used in Backend (65%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.mysql.com/" title="Used in Library DB + Namma Raita (85%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50"/>
-  </a>
-  <a href="https://www.python.org/" title="Used in ADAS Project (60%)">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50"/>
-  </a>
-</p>
+## 🎨 My Skills Sphere  
+[![Skills Sphere](https://img.shields.io/badge/Demo-Click%20Here-blue?style=for-the-badge)](https://bheemeshgundikeri.github.io/skills-sphere/)
+
+<details>
+<summary>🔵 Live Preview (expand)</summary>
+  
+<iframe src="https://bheemeshgundikeri.github.io/skills-sphere/" width="100%" height="500px"></iframe>
+
+</details>
 
 ---
 ## 🚀 Current Focus  
