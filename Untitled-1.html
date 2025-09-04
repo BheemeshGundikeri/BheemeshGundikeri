@@ -1,0 +1,147 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>Bheemesh Gundikeri – Banner</title>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;500;700;800&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --bg: #0b0b0f;
+    --ink: #e9eef4;
+    --muted: #a9b0bb;
+    --accent: #17c9ff;  
+  }
+  body{
+    margin:0;
+    font-family: "Poppins", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+  }
+
+  .banner{
+    max-width: 1000px;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 1.2fr 0.8fr;
+    align-items: center;
+    gap: 20px;
+    padding: 20px 30px;
+    border-radius: 12px;
+    background: linear-gradient(180deg, rgba(255,255,255,0.04), rgba(255,255,255,0));
+    border: 1px solid rgba(255,255,255,0.1);
+  }
+
+  .tag{
+    font-size: 12px;
+    color: var(--muted);
+  }
+  .name{
+    font-weight: 800;
+    font-size: clamp(20px, 3vw, 32px);
+    margin: 5px 0;
+  }
+  .typing{
+    font-weight:600;
+    font-size: clamp(13px, 2vw, 18px);
+    white-space:nowrap;
+  }
+  .caret{
+    display:inline-block;
+    width:8px;
+    margin-left:2px;
+    background: var(--ink);
+    animation: blink 1s steps(1) infinite;
+  }
+  @keyframes blink {50%{background:transparent}}
+
+  .links{
+    margin-top: 10px;
+    display:flex; flex-wrap:wrap; gap:10px;
+  }
+  .link{
+    font-size: 12px;
+    padding: 6px 10px;
+    border:1px solid rgba(255,255,255,0.1);
+    border-radius: 6px;
+    text-decoration:none;
+    color: var(--ink);
+  }
+  .link:hover{ border-color: var(--accent); }
+
+  .photo{
+    width: clamp(120px, 20vw, 180px);
+    aspect-ratio:1/1;
+    border-radius: 12px;
+    background:url('7965cce3-2798-4d50-a3eb-4ff9c96043de.png') center/cover no-repeat;
+    border:1px solid rgba(255,255,255,.1);
+  }
+
+  @media(max-width: 768px){
+    .banner{ grid-template-columns: 1fr; text-align: center; }
+    .photo{ margin: 0 auto; }
+  }
+</style>
+</head>
+<body>
+  <section class="banner">
+    <!-- Left -->
+    <div>
+      <div class="tag">Hey Dev! I’m</div>
+      <div class="name">BHEEMESH GUNDIKERI</div>
+
+      <div>
+        <span class="typing" id="typeTarget"></span><span class="caret"></span>
+      </div>
+
+      <div class="links">
+        <a class="link" href="https://www.linkedin.com/in/bheemesh-g" target="_blank">LinkedIn</a>
+        <a class="link" href="mailto:bheemesh.gundikeri24@gmail.com">Email</a>
+      </div>
+    </div>
+
+
+    <!-- Right -->
+    <div class="photo"></div>
+  </section>
+
+<script>
+const WORDS = [
+  "Full-Stack Developer",
+  "Angular Developer",
+  "React Developer",
+  "PHP & Node.js Developer"
+];
+
+const el = document.getElementById("typeTarget");
+const TYPE = 70, ERASE = 45, HOLD = 1000;
+let wordIndex = 0, charIndex = 0, deleting = false;
+
+function tick(){
+  const current = WORDS[wordIndex];
+  if(!deleting){
+    charIndex++;
+    el.textContent = current.slice(0, charIndex);
+    if(charIndex === current.length){
+      deleting = true;
+      setTimeout(tick, HOLD);
+      return;
+    }
+    setTimeout(tick, TYPE);
+  }else{
+    charIndex--;
+    el.textContent = current.slice(0, charIndex);
+    if(charIndex === 0){
+      deleting = false;
+      wordIndex = (wordIndex + 1) % WORDS.length;
+      setTimeout(tick, 250);
+      return;
+    }
+    setTimeout(tick, ERASE);
+  }
+}
+tick();
+</script>
+</body>
+</html>
